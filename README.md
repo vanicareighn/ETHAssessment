@@ -1,4 +1,4 @@
-# Project Title
+# Flip Coin (FLP) NFT
 
 ETH Proof Assessment - this code program runs the smart contract for the token NFTs.
 
